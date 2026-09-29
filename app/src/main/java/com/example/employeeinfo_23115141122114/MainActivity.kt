@@ -26,12 +26,12 @@ class MainActivity : AppCompatActivity() {
 
         // Tạo Model Student
         val student = Student(
-            maSinhVien = "126123456",
-            hoTen = "Nguyen Van A",
-            lop = "126LT01",
+            maSinhVien = "23115141122114",
+            hoTen = "Tạ Quang Nhựt",
+            lop = "23sk1",
             tuoi = 20,
             diem = 8.5,
-            khoa = "Cong nghe thong tin"
+            khoa = "Sư phạm kĩ thuât"
         )
 
         // Xử lý khi nhấn Button
